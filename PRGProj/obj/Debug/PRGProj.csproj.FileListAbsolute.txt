@@ -1,0 +1,24 @@
+C:\Users\gaber\source\repos\PRGProj\obj\Debug\PRGProj.csprojAssemblyReference.cache
+C:\Users\gaber\source\repos\PRGProj\obj\Debug\PRGProj.Form1.resources
+C:\Users\gaber\source\repos\PRGProj\obj\Debug\PRGProj.frmTick.resources
+C:\Users\gaber\source\repos\PRGProj\obj\Debug\PRGProj.Properties.Resources.resources
+C:\Users\gaber\source\repos\PRGProj\obj\Debug\PRGProj.csproj.GenerateResource.cache
+C:\Users\gaber\source\repos\PRGProj\obj\Debug\PRGProj.csproj.CoreCompileInputs.cache
+C:\Users\gaber\source\repos\PRGProj\bin\Debug\PRGProj.exe.config
+C:\Users\gaber\source\repos\PRGProj\bin\Debug\PRGProj.exe
+C:\Users\gaber\source\repos\PRGProj\bin\Debug\PRGProj.pdb
+C:\Users\gaber\source\repos\PRGProj\obj\Debug\PRGProj.exe
+C:\Users\gaber\source\repos\PRGProj\obj\Debug\PRGProj.pdb
+C:\Users\gaber\source\repos\PRGProj\obj\Debug\PRGProj.frmReceipt.resources
+C:\Users\gaber\Google Drive\4th Semester\PRG455\PRGProj\bin\Debug\PRGProj.exe.config
+C:\Users\gaber\Google Drive\4th Semester\PRG455\PRGProj\bin\Debug\PRGProj.exe
+C:\Users\gaber\Google Drive\4th Semester\PRG455\PRGProj\bin\Debug\PRGProj.pdb
+C:\Users\gaber\Google Drive\4th Semester\PRG455\PRGProj\obj\Debug\PRGProj.csprojAssemblyReference.cache
+C:\Users\gaber\Google Drive\4th Semester\PRG455\PRGProj\obj\Debug\PRGProj.Form1.resources
+C:\Users\gaber\Google Drive\4th Semester\PRG455\PRGProj\obj\Debug\PRGProj.frmReceipt.resources
+C:\Users\gaber\Google Drive\4th Semester\PRG455\PRGProj\obj\Debug\PRGProj.frmTick.resources
+C:\Users\gaber\Google Drive\4th Semester\PRG455\PRGProj\obj\Debug\PRGProj.Properties.Resources.resources
+C:\Users\gaber\Google Drive\4th Semester\PRG455\PRGProj\obj\Debug\PRGProj.csproj.GenerateResource.cache
+C:\Users\gaber\Google Drive\4th Semester\PRG455\PRGProj\obj\Debug\PRGProj.csproj.CoreCompileInputs.cache
+C:\Users\gaber\Google Drive\4th Semester\PRG455\PRGProj\obj\Debug\PRGProj.exe
+C:\Users\gaber\Google Drive\4th Semester\PRG455\PRGProj\obj\Debug\PRGProj.pdb
